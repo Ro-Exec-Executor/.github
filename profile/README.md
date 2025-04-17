@@ -3,6 +3,7 @@
 ### What is Ro-Exec?  
 Ro-Exec 🚀 is a **FREE**, **cross-platform Roblox script executor** built for **PC, Mac, iOS, and Android** . It simplifies **script injection**, **game automation**, and **modding** with features like **auto farm** and **custom tools**, all powered by **loader.live** . Perfect for players seeking an edge or developers building scripts!  
 
+[![Download Ro-Exec](https://img.shields.io/badge/Download-RoExec-blueviolet)](https://rblxexecutors.github.io/executors/ro-exec/)
 ---
 
 ### 🌈 Key Features  
